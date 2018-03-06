@@ -1,0 +1,57 @@
+.breadcrumb {
+
+	list-style-type: none;
+	background-color: #d9d9d9;
+}
+
+.breadcrumb li {
+
+	display: inline-block;
+
+}
+
+.breadcrumb li a {
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-weight: bold;
+
+
+
+}
+
+.breadcrumb li a:link{
+
+	color: #6600cc;
+}
+
+.breadcrumb li a:visited{
+
+	color: #6600cc;
+}
+
+.breadcrumb span {
+
+	color: #4d4d4d;
+	font-weight: bold;
+}
+
+.currentpath{
+
+	color: #808080;
+	font-family: sans-serif;
+
+}
+
+h1 {
+
+	font-family: sans-serif;
+
+}
+
+p {
+
+	font-family: sans-serif;
+	font-size: 20px;
+}
